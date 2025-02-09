@@ -1,12 +1,12 @@
 {
   "name": "survey",
-  "version": "0.0.3",
-  "description": "A Quasar Project",
-  "productName": "Quasar App",
+  "version": "0.1.2",
+  "description": "پژوهشی در خصوص اثرات احتمالی خواب بر انگیزه‌ی تحصیلی ما دانشجویان",
+  "productName": "پرسشنامه",
   "author": "karim <kerimdaye@gmail.com>",
   "type": "module",
   "private": true,
-  "homepage": "https://karim-dolehgaldi.github.io/survey",
+  "homepage": "/",
   "scripts": {
     "lint": "eslint -c ./eslint.config.js \"./src*/**/*.{js,cjs,mjs,vue}\"",
     "format": "prettier --write \"**/*.{js,vue,scss,html,md,json}\" --ignore-path .gitignore",
